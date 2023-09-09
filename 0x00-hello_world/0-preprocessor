@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E "$VARIABLE" -o OUTPUTFILE
+gcc $CFILE -E -o c
