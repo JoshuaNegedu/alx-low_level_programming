@@ -1,8 +1,8 @@
-#include "main.h"
+#include "main."
 
 /**
  * main - function and nested loops
- * return: always (0) success
+ * Return: always (0) success
  */
 
 int main(void)
