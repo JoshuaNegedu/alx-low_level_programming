@@ -1,11 +1,22 @@
-#include<stdio.h>
-#include<main.h>
-int main();{
-	char text[] = "_putchar"
-		int i
-		for (i=0; text[i] != '\0'; i++) {
-			putchar(text[i]);
-		}
-	    putchar('\n'); // Print a new line character
-	    return (0);
+#include "main.h"
+
+/**
+ * main - function and nested loops
+ * return: always (0) success
+ */
+
+int main(void)
+
+{
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+
+	return (0);
 }
